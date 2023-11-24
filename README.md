@@ -18,7 +18,6 @@
 
 💬 Ask me about **JavaScript, React, Firebase, Data Structures, C++... or anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 <div align="center"> 

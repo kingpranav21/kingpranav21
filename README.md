@@ -12,12 +12,11 @@
 
 <div align="center">
  
-  🌱 I’m currently learning React, Tailwind, Graphs in DS
-  👯 I’m looking to collaborate on Front-End part of the projects
-  🤔 I’m working on a 30 Day JavaScript Challenge right now
-  💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's
-  📫 How to reach me: <a href="mailto:pranavvahuja@gmail.com>pranavvahuja@gmail.com</a>
-  ⚡ Fun fact: I like softy in winters :
+  🌱 I’m currently learning React, Tailwind, Graphs in DS <br>
+  👯 I’m looking to collaborate on Front-End part of the projects <br>
+  🤔 I’m working on a 30 Day JavaScript Challenge right now <br>
+  💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
+  ⚡ Fun fact: I like softy in winters :) <br>
 
 
  </div>
@@ -27,9 +26,6 @@
   </a>
   <a href="https://linkedin.com/in/pranavvahuja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://kingpranav21.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 

@@ -12,11 +12,11 @@
 
 <div align="center">
  
-  🌱 I’m currently learning React, Tailwind, Graphs in DS <br>
-  👯 I’m looking to collaborate on Front-End part of the projects <br>
-  🤔 I’m working on a 30 Day JavaScript Challenge right now <br>
-  💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
-  ⚡ Fun fact: I like softy in winters :) <br>
+  - 🌱 I’m currently learning React, Tailwind, Graphs in DS <br>
+  - 👯 I’m looking to collaborate on Front-End part of the projects <br>
+  - 🤔 I’m working on a 30 Day JavaScript Challenge right now <br>
+  - 💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
+  - ⚡ Fun fact: I like softy in winters :) <br>
 
 
  </div>

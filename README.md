@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Ahuja!;" />
 </h1>
@@ -18,8 +14,8 @@
   - 💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
   - ⚡ Fun fact: I like softy in winters :) <br>
 
+</div>
 
- </div>
 <div align="center"> 
   <a href="mailto:pranavvahuja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,8 +25,8 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -41,27 +37,49 @@
 <br/>
 <hr/>
 <div align="center">
-<!--   <h2>🐍 </h2>
+  <h2>🐍 My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/> -->
 </div>
 
 <hr/>
 <br/>
 
-<!--
-**kingpranav21/kingpranav21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📊 GitHub Stats</h2>
+<br/>
+<div align="center">
+  <a href="https://github.com/PranavAhuja">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavAhuja&show_icons=true&theme=radical" />
+  </a>
+  <br>
+  <a href="https://github.com/PranavAhuja">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PranavAhuja&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<hr/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🏆 Top Repositories</h2>
+<br/>
+<div align="center">
+  <a href="https://github.com/PranavAhuja/YourTopRepo1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavAhuja&repo=YourTopRepo1&theme=radical" />
+  </a>
+  <br>
+  <a href="https://github.com/PranavAhuja/YourTopRepo2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavAhuja&repo=YourTopRepo2&theme=radical" />
+  </a>
+</div>
+
+<hr/>
+<br/>
+
+<h2 align="center">🌟 Visitors</h2>
+<br/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PranavAhuja.PranavAhuja" alt="visitor badge"/>
+</div>
+
+<hr/>
+<br/>

@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div>
  
   - 🌱 I’m currently learning React, Tailwind, Graphs in DS <br>
   - 👯 I’m looking to collaborate on Front-End part of the projects <br>
@@ -45,41 +45,5 @@
 <hr/>
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
-<div align="center">
-  <a href="https://github.com/PranavAhuja">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavAhuja&show_icons=true&theme=radical" />
-  </a>
-  <br>
-  <a href="https://github.com/PranavAhuja">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PranavAhuja&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</div>
 
-<hr/>
-<br/>
 
-<h2 align="center">🏆 Top Repositories</h2>
-<br/>
-<div align="center">
-  <a href="https://github.com/PranavAhuja/YourTopRepo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavAhuja&repo=YourTopRepo1&theme=radical" />
-  </a>
-  <br>
-  <a href="https://github.com/PranavAhuja/YourTopRepo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavAhuja&repo=YourTopRepo2&theme=radical" />
-  </a>
-</div>
-
-<hr/>
-<br/>
-
-<h2 align="center">🌟 Visitors</h2>
-<br/>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PranavAhuja.PranavAhuja" alt="visitor badge"/>
-</div>
-
-<hr/>
-<br/>

@@ -6,17 +6,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Ahuja!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇮🇳 </h3>
+<h3 align="center">Front-End Developer </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Chat Application**
- 
- 🌱 I’m currently learning **Node.js , Express.js, MongoDB**
-
-💬 Ask me about **JavaScript, React, Firebase, Data Structures, C++... or anything**
+  🌱 I’m currently learning React, Tailwind, Graphs in DS
+  👯 I’m looking to collaborate on Front-End part of the projects
+  🤔 I’m working on a 30 Day JavaScript Challenge right now
+  💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's
+  📫 How to reach me: <a href="mailto:pranavvahuja@gmail.com>pranavvahuja@gmail.com</a>
+  ⚡ Fun fact: I like softy in winters :
 
 
  </div>

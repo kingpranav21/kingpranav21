@@ -13,6 +13,7 @@
   - 🤔 I’m working on a 30 Day JavaScript Challenge right now <br>
   - 💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
   - ⚡ Fun fact: I like softy in winters :) <br>
+  - 🖥️ Contact me at pranavvahuja@gmail.com
 
 </div>
 

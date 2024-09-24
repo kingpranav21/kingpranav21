@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Ahuja!;" />
 </h1>
 
-<h3 align="center">Front-End Developer </h3>
+<h3 align="center">Full-Stack Developer </h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
  
   - 🌱 I’m currently learning React, Tailwind, Graphs in DS <br>
   - 👯 I’m looking to collaborate on Front-End part of the projects <br>
-  - 🤔 I’m working on a 30 Day JavaScript Challenge right now <br>
+  - 🤔 I just completed a 27 Day JavaScript Challenge <br>
   - 💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
   - ⚡ Fun fact: I like softy in winters :) <br>
   - 🖥️ Contact me at pranavvahuja@gmail.com

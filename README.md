@@ -9,9 +9,8 @@
 <div>
  
   - 🌱 I’m currently learning React, Tailwind, Graphs in DS <br>
-  - 👯 I’m looking to collaborate on Front-End part of the projects <br>
-  - 🤔 I just completed a 27 Day JavaScript Challenge <br>
-  - 💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, OOP's <br>
+  - 👯 I’m looking to collaborate on Backend projects <br>
+  - 💬 Ask me about JavaScript, React, C++, Java, MySQL, Node, Express, Data Modelling, MongoDB, OOP's <br>
   - ⚡ Fun fact: I like softy in winters :) <br>
   - 🖥️ Contact me at pranavvahuja@gmail.com
 

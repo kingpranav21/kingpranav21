@@ -82,19 +82,6 @@ Building scalable backend systems, AI-powered applications, and modern web produ
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kingpranav21&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kingpranav21&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingpranav21&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** pranavvahuja@gmail.com
